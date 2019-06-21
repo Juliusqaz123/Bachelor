@@ -1,0 +1,10 @@
+archery
+basketball
+biking
+bowling
+skiing
+sky diving
+sumo wrestling
+surfing
+ice dancing
+playing guitar
